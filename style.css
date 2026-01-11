@@ -1,0 +1,13 @@
+h1 {
+    text-align: center;
+    color: darkturquoise;
+}
+
+.person {
+    text-align: center;
+    color: black;
+}
+
+.person:hover {
+    font-size: 100px;
+}
